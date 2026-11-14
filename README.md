@@ -155,6 +155,7 @@ This repository is the collaborative codebase for the **GodzillaCoder** COMP229 
 | GitHub repository setup and integration coordination | [varothayan8](https://github.com/varothayan8) |
 | Backend implementation | [ValhallaES](https://github.com/ValhallaES) — [PR #1](https://github.com/varothayan8/support-ticket-management-system/pull/1) |
 | Frontend implementation | [Lim-Chhay-Khy](https://github.com/Lim-Chhay-Khy) — [PR #3](https://github.com/varothayan8/support-ticket-management-system/pull/3) |
+| Backend architecture & DB | [abhjeetsingh000-ship-it](https://github.com/abhjeetsingh000-ship-it) |
 | Other team members and roles | Confirm against the signed team contract and [commit history](https://github.com/varothayan8/support-ticket-management-system/commits/main) |
 
 Team members should make their own meaningful commits, work on feature branches, and submit pull requests for review. The assignment requires commits from **every team member**.
